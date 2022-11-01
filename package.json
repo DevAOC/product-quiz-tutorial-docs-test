@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@gadget-client/alida-quiz-app-2": "^1.2541.0",
+    "@gadget-client/product-quiz-tutorial-docs-test": "^1.7.0",
     "@gadgetinc/react": "^0.7.2",
     "@shopify/polaris": "^9.21.1",
     "dotenv": "^16.0.0",

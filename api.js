@@ -1,4 +1,4 @@
-import { Client } from "@gadget-client/YOUR CLIENT HERE";
+import { Client } from "@gadget-client/product-quiz-tutorial-docs-test";
 
 export const api = new Client({
   authenticationMode: {
